@@ -1,0 +1,33 @@
+project:
+  type: website
+
+website:
+  title: "Mayenziwe Nyamane"
+  description: "Notes on financial mathematics, markets, and computation."
+  navbar:
+    background: "#FAFAF8"
+    foreground: "#222522"
+    search: false
+    pinned: false
+    left:
+      - text: Overview
+        href: index.qmd
+      - text: Research
+        href: research.qmd
+      - text: Notes
+        href: notes.qmd
+      - text: About
+        href: about.qmd
+  page-footer:
+    border: false
+    left: "Mayenziwe Nyamane"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    anchor-sections: false
+    code-copy: hover
+    code-block-bg: "#F2F3F0"

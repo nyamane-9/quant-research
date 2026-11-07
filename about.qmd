@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+I am currently studying Financial Mathematics at the North West University. With interests in quantitative finance, investment research and statistical analysis. 
+
+This site is a my personal workspace made public. A place to document my learning, thinking and building.
+
+## Contact
+
+Feel free to reach out with questions and/or feedback.
+
+[Email](mailto:mayenzi.nyamane@gmail.com) · [Linkedin](https://www.linkedin.com/in/mayenziwe-nyamane-620a3b2b7/) · [Github](https://github.com/nyamane-9)
+
+
+
+

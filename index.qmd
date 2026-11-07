@@ -1,0 +1,51 @@
+---
+title: "Overview"
+body-classes: home-page
+page-layout: full
+---
+
+::: {.eyebrow}
+RESEARCH & NOTES 
+:::
+
+# On mathematics, markets, and models. {.hero-title}
+
+::: {.hero-description}
+A working archive of questions, experiments and ideas across financial mathematics, statistics and investment research.
+:::
+
+[Explore research](research.qmd){.quiet-link} &nbsp;&nbsp; [Read notes](notes.qmd){.quiet-link}
+
+## Selected work {.section-title}
+
+::: {.research-item}
+::: {.item-tag}
+01 / PROJECT
+:::
+
+::: {.item-body}
+### [Statistical research toolkit for JSE equities](research.qmd)
+
+Exploring how Python and statistical methods can support the analysis of listed equities.
+
+<span class="status">IN PROGRESS</span>
+:::
+:::
+
+::: {.research-item}
+::: {.item-tag}
+02 / WRITING
+:::
+
+::: {.item-body}
+### [Research notes and worked ideas](notes.qmd)
+
+Developing explanations, methodological notes, and questions worth revisiting.
+
+<span class="status">ONGOING</span>
+:::
+:::
+
+::: {.closing-note}
+This website is a record of work in progress, not a finished collection.
+:::

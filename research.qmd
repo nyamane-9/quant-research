@@ -1,0 +1,16 @@
+---
+title: "Research"
+---
+
+
+## Statistical research toolkit for JSE equities
+
+<span class="status">IN PROGRESS · PYTHON / STATISTICS / EQUITIES</span>
+
+A developing Python-based project for investigating listed equities through statistical analysis. As the work matures, this page can hold the research question, dataset, methodology, limitations, findings and code.
+
+### Research log
+
+- **Question:** What exactly should be measured, and why?
+- **Method:** Document assumptions and how they are tested.
+- **Results:** Publish only when verified and reproducible.
