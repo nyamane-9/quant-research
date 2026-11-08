@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://nyamane-9.github.io/quant-research/about.html</loc>
-    <lastmod>2026-11-07T19:37:34.988Z</lastmod>
+    <loc>https://nyamane-9.github.io/quant-research/writings.html</loc>
+    <lastmod>2026-11-08T01:36:55.267Z</lastmod>
   </url>
   <url>
-    <loc>https://nyamane-9.github.io/quant-research/notes.html</loc>
-    <lastmod>2026-11-07T19:37:34.989Z</lastmod>
+    <loc>https://nyamane-9.github.io/quant-research/index.html</loc>
+    <lastmod>2026-11-08T01:48:27.030Z</lastmod>
   </url>
   <url>
     <loc>https://nyamane-9.github.io/quant-research/research.html</loc>
     <lastmod>2026-11-07T19:37:34.989Z</lastmod>
   </url>
   <url>
-    <loc>https://nyamane-9.github.io/quant-research/index.html</loc>
-    <lastmod>2026-11-08T01:18:57.669Z</lastmod>
+    <loc>https://nyamane-9.github.io/quant-research/notes.html</loc>
+    <lastmod>2026-11-08T01:40:37.221Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nyamane-9.github.io/quant-research/about.html</loc>
+    <lastmod>2026-11-07T19:37:34.988Z</lastmod>
   </url>
 </urlset>

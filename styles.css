@@ -182,3 +182,62 @@ main a:hover {
   color: #222522;
   border-bottom-color: #222522;
 }
+
+
+/* Writings — editorial alignment */
+
+.writings-page main.content {
+  max-width: 760px;
+  width: 100%;
+  margin-inline: auto;
+}
+
+.writings-page .quarto-listing {
+  width: 100%;
+  max-width: 100%;
+}
+
+/* Flat editorial listing */
+
+.writings-page .quarto-listing-default .quarto-post {
+  display: flex;
+  flex-direction: column;
+  gap: 0.35rem;
+  padding: 1.5rem 0;
+  border-bottom: 1px solid var(--hairline);
+}
+
+.writings-page .quarto-post .body,
+.writings-page .quarto-post .metadata {
+  width: 100%;
+  flex: none;
+}
+
+.writings-page .quarto-post .metadata {
+  font-family: var(--mono);
+  font-size: 0.7rem;
+  color: var(--graphite);
+}
+
+/* Mobile spacing */
+
+@media (max-width: 767px) {
+  .writings-page main.content {
+    padding-inline: 1.1rem;
+  }
+}
+
+
+/* Notes — consistent editorial alignment */
+
+.notes-page main.content {
+  max-width: 760px;
+  width: 100%;
+  margin-inline: auto;
+}
+
+.notes-page .quarto-listing {
+  width: 100%;
+  max-width: 100%;
+}
+

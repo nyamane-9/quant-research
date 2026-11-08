@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "writings.html",
+    "href": "writings.html",
+    "title": "Writings",
     "section": "",
-    "text": "I am currently studying Financial Mathematics at the North West University. With interests in quantitative finance, investment research and statistical analysis.\nThis site is a my personal workspace made public. A place to document my learning, thinking and building."
+    "text": "No matching items"
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About",
-    "section": "Contact",
-    "text": "Contact\nFeel free to reach out with questions and/or feedback.\nEmail · Linkedin · Github"
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "RESEARCH, NOTES & WRITING"
   },
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes",
-    "section": "",
-    "text": "New notes will be added as ideas become clear enough to explain."
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Overview",
+    "section": "Selected work",
+    "text": "Selected work\n\n\n01 / PROJECT\n\n\nStatistical research toolkit for JSE equities\nExploring how Python and statistical methods can support the analysis of listed equities.\nIN PROGRESS\n\n\n\n\n02 / NOTES\n\n\nResearch notes and worked ideas\nDeveloping explanations, methodological notes, and questions worth revisiting.\nONGOING\n\n\n\nThis website is a record of work in progress, not a finished collection."
   },
   {
     "objectID": "research.html",
@@ -35,17 +35,24 @@
     "text": "IN PROGRESS · PYTHON / STATISTICS / EQUITIES\nA developing Python-based project for investigating listed equities through statistical analysis. As the work matures, this page can hold the research question, dataset, methodology, limitations, findings and code.\n\n\n\nQuestion: What exactly should be measured, and why?\nMethod: Document assumptions and how they are tested.\nResults: Publish only when verified and reproducible."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Overview",
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes",
     "section": "",
-    "text": "RESEARCH, NOTES & WRITING"
+    "text": "New notes will be added as ideas become clear enough to explain."
   },
   {
-    "objectID": "index.html#selected-work",
-    "href": "index.html#selected-work",
-    "title": "Overview",
-    "section": "Selected work",
-    "text": "Selected work\n\n\n01 / PROJECT\n\n\nStatistical research toolkit for JSE equities\nExploring how Python and statistical methods can support the analysis of listed equities.\nIN PROGRESS\n\n\n\n\n02 / WRITING\n\n\nResearch notes and worked ideas\nDeveloping explanations, methodological notes, and questions worth revisiting.\nONGOING\n\n\n\nThis website is a record of work in progress, not a finished collection."
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am currently studying Financial Mathematics at the North West University. With interests in quantitative finance, investment research and statistical analysis.\nThis site is a my personal workspace made public. A place to document my learning, thinking and building."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out with questions and/or feedback.\nEmail · Linkedin · Github"
   }
 ]
