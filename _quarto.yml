@@ -16,6 +16,8 @@ website:
         href: research.qmd
       - text: Notes
         href: notes.qmd
+      - text: "Writings"
+        href: writings.qmd
       - text: About
         href: about.qmd
   page-footer:

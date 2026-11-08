@@ -14,7 +14,7 @@ RESEARCH, NOTES & WRITING
 A working archive of questions, experiments and ideas across financial mathematics, statistics and investment research.
 :::
 
-[Explore research](research.qmd){.quiet-link} &nbsp;&nbsp; [Read notes](notes.qmd){.quiet-link}
+[Explore research](research.qmd){.quiet-link} &nbsp;&nbsp; [Read notes](notes.qmd){.quiet-link} &nbsp;&nbsp; [Read writings](writings.qmd){.quiet-link}
 
 ## Selected work {.section-title}
 
@@ -34,7 +34,7 @@ Exploring how Python and statistical methods can support the analysis of listed 
 
 ::: {.research-item}
 ::: {.item-tag}
-02 / WRITING
+02 / NOTES
 :::
 
 ::: {.item-body}
